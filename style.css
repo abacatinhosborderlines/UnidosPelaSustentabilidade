@@ -16,8 +16,12 @@ header{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    
 }
 
+.imca{
+    width: 10%;
+}
 .Objetivo{
     background-image: url(Captura\ de\ tela\ 2024-06-11\ 113539.png);
     color: white;

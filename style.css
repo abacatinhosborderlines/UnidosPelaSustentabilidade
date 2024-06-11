@@ -38,6 +38,7 @@ header{
     width: 5%;
 }
 footer{
+    color: white;
     background-color: #377150;
     display: flex;
     flex-direction: row;

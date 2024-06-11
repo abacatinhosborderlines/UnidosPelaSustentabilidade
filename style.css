@@ -34,6 +34,9 @@ header{
     width: 50%;
 }
 
+.icon{
+    width: 50%;
+}
 footer{
     background-color: #377150;
 }
@@ -43,9 +46,6 @@ footer{
         margin: 0;
         background-size: 100%;
         padding: 1px;
-    }
-    .ciclo{
-        display: none;
     }
 }
 

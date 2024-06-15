@@ -39,6 +39,11 @@ header{
     flex-wrap: nowrap;
     width: 20%;
 }
+.composteira{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 30%;
+}
 
 .icon{
     width: 5%;

@@ -55,6 +55,7 @@ footer{
 
 @media screen and (min-width: 1024px) {
     .Objetivo{
+        width: 100%;
         margin: 0;
         background-size: 100%;
         padding: 1px;

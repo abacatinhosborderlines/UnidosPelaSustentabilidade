@@ -31,10 +31,13 @@ header{
     width: 100%;
     background-size: 100% 100%;
     padding: 10px;
-    list-style-type: circle;
+
 }
 
 .intro{
+    display: flex;
+    flex-direction: column;
+    list-style-type: circle;
     color: white;
 }
 

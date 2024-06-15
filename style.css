@@ -10,6 +10,7 @@ body{
 }
 
 header{
+    text-decoration: none;
     color: white;
     background-color: #377150;
     display: flex;

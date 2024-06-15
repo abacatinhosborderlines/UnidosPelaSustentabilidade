@@ -34,19 +34,11 @@ header{
     color: white;
 }
 
-.utopico{
-    display: flex;
-    flex-wrap: nowrap;
-}
+
 .ciclo{
     display: flex;
     flex-wrap: nowrap;
     width: 20%;
-}
-.composteira{
-    display: flex;
-    flex-wrap: nowrap;
-    width: 25%;
 }
 
 .icon{

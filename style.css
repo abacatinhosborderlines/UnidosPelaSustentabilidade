@@ -26,7 +26,12 @@ background-size: 100% 100%;
 
 #ciclo{
     display: flex;
-    width: 10%;
+    width: 50%;
+}
+
+.ciclo{
+    display: flex;
+    width: 10%5
 }
 
 .imgca{

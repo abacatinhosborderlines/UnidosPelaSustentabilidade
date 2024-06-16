@@ -19,7 +19,9 @@ header{
     align-items: center;
     
 }
-
+.topicos{
+    padding: 10px;
+}
 .imgca{
     width: 5%;
 }

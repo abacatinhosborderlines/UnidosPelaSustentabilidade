@@ -79,14 +79,23 @@ footer{
         width: 100%;
         margin: 0;
         background-size: 100%;
-        padding: 10px;
+        padding: 1px;
     }
 
+   
+}
+
+@media screen and (min-width: 1440px) {  
+    .Objetivo{
+        padding: 10px;
+    }
+    
     .imgca{
         width: 10%;
     }
     #Quem\Somos{
         padding: 10px;
     }
+
 }
 

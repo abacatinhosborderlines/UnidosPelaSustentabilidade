@@ -36,9 +36,10 @@ header{
 
 .intro{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     list-style-type: circle;
     color: white;
+    justify-content: center;
 }
 
 

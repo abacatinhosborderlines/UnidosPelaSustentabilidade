@@ -50,12 +50,16 @@ background-size: 100% 100%;
     justify-content: center;
 }
 
-.ciclo{
-width: 10%;
+#ciclo {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
 }
-.imgc{
+
+.imc {
+    width: 30%;
+}
     
-}
 
 .icon{
     width: 5%;

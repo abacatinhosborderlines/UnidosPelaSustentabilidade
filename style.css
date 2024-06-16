@@ -35,6 +35,8 @@ header{
 }
 
 .intro{
+    border: 3px solid white;
+    border-style: dotted;
     display: flex;
     flex-direction: row;
     list-style-type: circle;

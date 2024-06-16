@@ -26,7 +26,7 @@ header{
 .Objetivo{
     display: flex;
     flex-direction: column;
-    background-image: url(Captura\ de\ tela\ 2024-06-11\ 113539.png);
+    background-image: url(fundo.png);
     color: white;
     width: 100%;
     background-size: 100% 100%;

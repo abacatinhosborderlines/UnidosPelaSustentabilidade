@@ -42,10 +42,12 @@ header{
     justify-content: center;
 }
 
-
+.compos{
+    width: 70%;
+}
 .ciclo{
    display: flex;
-    width: 20%;
+    width: 60%;
 }
 
 .icon{

@@ -93,8 +93,13 @@ footer{
     }
     
 .topicos{
+    display: grid;
     padding: 15px;
     font-size: 110%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
 }
 
     .imgca{

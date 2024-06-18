@@ -103,6 +103,13 @@ footer{
     .Quem{
         padding: 10px;
     }
+    .imc {
+        width: 40%;
+    }
+    .nm {
+        width: 30%;
+    }    
+
 
 }
 

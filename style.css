@@ -100,7 +100,13 @@ footer{
     grid-template-columns: 50% 50%;
 }
 
+.colun{
+    padding: 50px;
+    line-height: 40px;
 }
+
+
+
 
     .imgca{
         width: 4%;
@@ -115,6 +121,6 @@ footer{
         width: 30%;
     }    
 
-
 }
+
 

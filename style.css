@@ -32,6 +32,8 @@ background-size: 100% 100%;
     width: 5%;
 }
 .Objetivo{
+    line-height: 25px;
+
     display: flex;
     flex-direction: column;
     background-image: url(fundo.png);
@@ -44,6 +46,7 @@ background-size: 100% 100%;
 }
 
 .intro{
+    line-height: 25px;
     border: 3px solid white;
     border-style: dotted;
     display: flex;

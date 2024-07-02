@@ -100,8 +100,11 @@ footer{
  }
 
     .Objetivo{
+        font-size: 150%;
+        line-height: 40px;
         padding: 10px 0px;
     }
+        
     
 .topicos{
     display: grid;

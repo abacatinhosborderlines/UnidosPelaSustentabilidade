@@ -115,8 +115,12 @@ footer{
     padding: 50px;
     line-height: 40px;;
 }
-
 .coluna{
+    padding: 50px;
+    line-height: 40px;
+}
+
+.colu{
     padding: 50px;
         line-height: 40px;
         display: grid;

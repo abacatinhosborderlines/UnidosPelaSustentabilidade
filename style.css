@@ -76,6 +76,10 @@ background-size: 100% 100%;
 
     width: 4%;
 }
+
+#coluna{
+    padding-top: 10px;
+}
 footer{
     border: 3px solid #09391E;
     color: white;

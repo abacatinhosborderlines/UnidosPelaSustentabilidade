@@ -92,6 +92,10 @@ footer{
 
 
 @media screen and (min-width: 1300px) {  
+ .intro{
+    padding: 10px;
+ }
+
     .Objetivo{
         padding: 10px 0px;
     }
@@ -106,7 +110,7 @@ footer{
 
 .colun{
     padding: 50px;
-    line-height: 40px;
+    line-height: 30px;
 }
 
 

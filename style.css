@@ -109,10 +109,14 @@ footer{
 }
 
 .colun{
-    padding: 50px;
-    line-height: 30px;
+    padding: 40px;
+    line-height: 35px;
 }
 
+.coluna{
+    padding: 50px;
+    line-height: 35px;
+}
 
 
 

@@ -77,7 +77,10 @@ background-size: 100% 100%;
     width: 4%;
 }
 
-#coluna{
+.coluna{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-items: center;
     padding-top: 10px;
 }
 footer{
